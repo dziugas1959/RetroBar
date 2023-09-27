@@ -2,7 +2,7 @@
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                     xmlns:s="clr-namespace:System;assembly=mscorlib">
 
-    <s:String x:Key="retrobar_properties">RetroBar ypatybės</s:String>
+    <s:String x:Key="retrobar_properties">„RetroBar“ ypatybės</s:String>
     <s:String x:Key="taskbar_tab">Užduočių juosta</s:String>
     <s:String x:Key="taskbar_appearance">Užduočių juostos išvaizda</s:String>
     <s:String x:Key="notification_area">Pranešimų sritis</s:String>
@@ -10,7 +10,7 @@
     <s:String x:Key="language_text">Kal_ba:</s:String>
     <s:String x:Key="language_tip">Pasirinkite kalbą.</s:String>
     <s:String x:Key="theme_text">_Tema:</s:String>
-    <s:String x:Key="theme_tip">Diegikite temas ,,Themes" aplankoje.</s:String>
+    <s:String x:Key="theme_tip">Diegikite temas ,,Themes“ aplankoje.</s:String>
     <s:String x:Key="location_text">Vie_ta:</s:String>
     <s:String x:Key="location_tip">Pakeiskite užduočių juostos vietą ekrane.</s:String>
     <x:Array x:Key="location_values" Type="s:String">
@@ -31,7 +31,7 @@
     <s:String x:Key="ok_dialog">Gerai</s:String>
 
     <s:String x:Key="customize_notifications">Priminimų tvarkymas</s:String>
-    <s:String x:Key="customize_notifications_info">RetroBar rodo aktyvių ir svarbių piktogramos pranešimų, ir slepia neaktyvių. Jūs galite pakeisti šių elementų elgesį čia.</s:String>
+    <s:String x:Key="customize_notifications_info">„RetroBar“ rodo aktyvių ir svarbių piktogramos pranešimų, ir slepia neaktyvių. Jūs galite pakeisti šių elementų elgesį čia.</s:String>
     <s:String x:Key="customize_notifications_instruction">Pažymėkite elementą, tada pasirinkite jo pranešimo elgesį:</s:String>
     <s:String x:Key="hide_when_inactive">Slėpti, kai neaktyvus</s:String>
     <s:String x:Key="always_show">Visada rodyti</s:String>
@@ -44,7 +44,7 @@
     <s:String x:Key="start_button_tip">Pradėkite spustelėdami čia</s:String>
     <s:String x:Key="start_button_tip_vista">Pradėti</s:String>
 
-    <s:String x:Key="retrobar_title">RetroBar Taskbar</s:String>
+    <s:String x:Key="retrobar_title">„RetroBar“ Užduočių juosta</s:String>
     <s:String x:Key="toolbars">Į_rankių juostos</s:String>
     <s:String x:Key="quick_launch">_Greitas paleidimas</s:String>
     <s:String x:Key="new_toolbar">_Nauja įrankių juosta...</s:String>
@@ -53,7 +53,7 @@
     <s:String x:Key="show_taskman">Uždu_očių tvarkymas</s:String>
     <s:String x:Key="tray_properties">_Ypatybės</s:String>
     <s:String x:Key="update_available">_Yra atnaujinimas</s:String>
-    <s:String x:Key="exit_retrobar">_Išjungti RetroBar</s:String>
+    <s:String x:Key="exit_retrobar">_Išjungti „RetroBar“</s:String>
     <s:String x:Key="customize_notifications_menu">_Priminimų tvarkymas...</s:String>
 
     <s:String x:Key="restore">_Atkurti</s:String>
